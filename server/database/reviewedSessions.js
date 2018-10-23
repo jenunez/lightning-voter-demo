@@ -5,6 +5,9 @@ var reviewedSessions = [
   {userId: 2, sessions: [
     {id: 1}
   ]},
+  {userId: 3, sessions: [
+    {id: 1}
+  ]},
 ]
 
 module.exports = reviewedSessions;
